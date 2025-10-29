@@ -11,3 +11,7 @@ terraform.tfstate.*
 
 # Your work
 infra/yours/**/*
+
+
+terraform.tfvars
+!*.tfvars.example
